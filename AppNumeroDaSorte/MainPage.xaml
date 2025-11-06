@@ -1,35 +1,101 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage
     x:Class="AppNumeroDaSorte.MainPage"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
-
     <ScrollView>
-        <VerticalStackLayout Padding="30,0" Spacing="25">
+        <VerticalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
             <Image
-                Aspect="AspectFit"
-                HeightRequest="185"
-                SemanticProperties.Description="dot net bot in a hovercraft number nine"
-                Source="dotnet_bot.png" />
-
+                HeightRequest="115"
+                Source="logo_green.png"
+                WidthRequest="74" />
             <Label
-                SemanticProperties.HeadingLevel="Level1"
-                Style="{StaticResource Headline}"
-                Text="Hello, World!" />
-
+                Margin="0,20,0,120"
+                BackgroundColor="White"
+                HorizontalOptions="Center"
+                IsVisible="false"
+                Text="Numero da Sorte!"
+                TextColor="#00AB37"
+                VerticalOptions="Center" />
             <Label
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                SemanticProperties.HeadingLevel="Level2"
-                Style="{StaticResource SubHeadline}"
-                Text="Welcome to &#10;.NET Multi-platform App UI" />
+                Margin="0,20,0,120"
+                HorizontalOptions="Center"
+                Text="O número da sorte é: " />
+            <VerticalStackLayout x:Name="ContainerLuckNumbers" IsVisible="false">
 
-            <Button
-                x:Name="CounterBtn"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Fill"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Text="Click me" />
+                <Label
+                    x:Name="NameApp"
+                    Margin="0,0,0,50"
+                    HorizontalOptions="Center"
+                    Text="Boa sorte!" />
+                <HorizontalStackLayout
+                    Margin="0,70"
+                    HorizontalOptions="Center"
+                    Spacing="5">
+                    <Border
+                        Padding="10,5"
+                        Stroke="#00AB37"
+                        StrokeShape="RoundRectangle 8">
+                        <Label
+                            x:Name="luckNumber01"
+                            FontSize="24"
+                            Text=""
+                            TextColor="#00AB37" />
+                    </Border>
+                    <Border
+                        Padding="10,5"
+                        Stroke="#00AB37"
+                        StrokeShape="RoundRectangle 8">
+                        <Label
+                            x:Name="luckNumber02"
+                            FontSize="24"
+                            Text=""
+                            TextColor="#00AB37" />
+                    </Border>
+                    <Border
+                        Padding="10,5"
+                        Stroke="#00AB37"
+                        StrokeShape="RoundRectangle 8">
+                        <Label
+                            x:Name="luckNumber03"
+                            FontSize="24"
+                            Text=""
+                            TextColor="#00AB37" />
+                    </Border>
+                    <Border
+                        Padding="10,5"
+                        Stroke="#00AB37"
+                        StrokeShape="RoundRectangle 8">
+                        <Label
+                            x:Name="luckNumber04"
+                            FontSize="24"
+                            Text=""
+                            TextColor="#00AB37" />
+                    </Border>
+                    <Border
+                        Padding="10,5"
+                        Stroke="#00AB37"
+                        StrokeShape="RoundRectangle 8">
+                        <Label
+                            x:Name="luckNumber05"
+                            FontSize="24"
+                            Text=""
+                            TextColor="#00AB37" />
+                    </Border>
+                    <Border
+                        Padding="10,5"
+                        Stroke="#00AB37"
+                        StrokeShape="RoundRectangle 8">
+                        <Label
+                            x:Name="luckNumber06"
+                            FontSize="24"
+                            Text=""
+                            TextColor="#00AB37" />
+                    </Border>
+
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+            <Button Clicked="OnGenerateLuckNumbers"  HorizontalOptions="Center" Text="Gerar número da sorte" />
         </VerticalStackLayout>
     </ScrollView>
-
 </ContentPage>
