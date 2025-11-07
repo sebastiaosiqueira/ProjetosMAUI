@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appflyoutpage\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|solutionrelative:appflyoutpage\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appflyoutpage\\flyoutpagemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|solutionrelative:appflyoutpage\\flyoutpagemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appflyoutpage\\flyoutpagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|solutionrelative:appflyoutpage\\flyoutpagemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appflyoutpage\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|solutionrelative:appflyoutpage\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appflyoutpage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A02E89-216A-4966-9399-B60D13A1BA2D}|AppFlyoutPage\\AppFlyoutPage.csproj|solutionrelative:appflyoutpage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Menu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\Menu.xaml.cs",
-              "RelativeDocumentMoniker": "AppFlyoutPage\\Menu.xaml.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\Menu.xaml.cs",
-              "RelativeToolTip": "AppFlyoutPage\\Menu.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T18:33:49.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.xaml",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\Menu.xaml",
-              "RelativeDocumentMoniker": "AppFlyoutPage\\Menu.xaml",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\Menu.xaml",
-              "RelativeToolTip": "AppFlyoutPage\\Menu.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\MainPage.xaml",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T18:31:55.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\App.xaml.cs",
-              "RelativeDocumentMoniker": "AppFlyoutPage\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\App.xaml.cs",
-              "RelativeToolTip": "AppFlyoutPage\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T18:26:06.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FlyoutPageMenu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\FlyoutPageMenu.xaml.cs",
-              "RelativeDocumentMoniker": "AppFlyoutPage\\FlyoutPageMenu.xaml.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\FlyoutPageMenu.xaml.cs",
-              "RelativeToolTip": "AppFlyoutPage\\FlyoutPageMenu.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T18:21:34.518Z",
+              "WhenOpened": "2025-11-07T19:34:27.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FlyoutPageMenu.xaml",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\FlyoutPageMenu.xaml",
-              "RelativeDocumentMoniker": "AppFlyoutPage\\FlyoutPageMenu.xaml",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppFlyoutPage\\FlyoutPageMenu.xaml",
-              "RelativeToolTip": "AppFlyoutPage\\FlyoutPageMenu.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml.cs",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\Menu.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:56:14.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Menu.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\Menu.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T18:20:39.053Z",
+              "WhenOpened": "2025-11-07T13:44:36.24Z",
               "EditorCaption": ""
             }
           ]
