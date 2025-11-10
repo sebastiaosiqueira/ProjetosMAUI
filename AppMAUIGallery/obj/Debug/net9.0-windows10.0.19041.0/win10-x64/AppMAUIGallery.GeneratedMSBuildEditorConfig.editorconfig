@@ -46,6 +46,24 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Resources.S
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Layouts/AbsoluteLayoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Layouts.AbsoluteLayoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Layouts\AbsoluteLayoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Layouts\AbsoluteLayoutPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Layouts/FlaxLayoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Layouts.FlaxLayoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Layouts\FlaxLayoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Layouts\FlaxLayoutPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Layouts/GridLayoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Layouts.GridLayoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Layouts\GridLayoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Layouts\GridLayoutPage.xaml
+
 [C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Layouts/StackLayoutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Layouts.StackLayoutPage.xaml

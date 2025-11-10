@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\layouts\\flaxlayoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\layouts\\flaxlayoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\MainPage.xaml",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Title": "FlaxLayoutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Layouts\\FlaxLayoutPage.xaml",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Layouts\\FlaxLayoutPage.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Layouts\\FlaxLayoutPage.xaml",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\Layouts\\FlaxLayoutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-07T19:34:27.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml.cs",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Menu.xaml.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml.cs",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\Menu.xaml.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAADwvzkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T13:56:14.182Z",
+              "WhenOpened": "2025-11-10T18:49:31.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Menu.xaml",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Menu.xaml",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\Menu.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-07T13:44:36.24Z",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:31:48.543Z",
               "EditorCaption": ""
             }
           ]
