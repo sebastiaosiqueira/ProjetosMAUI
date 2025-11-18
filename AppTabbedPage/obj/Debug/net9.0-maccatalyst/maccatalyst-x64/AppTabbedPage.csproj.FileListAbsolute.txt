@@ -266,6 +266,15 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\two@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\two@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\two.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\three@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\three@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\three.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\one@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\one@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\one.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist

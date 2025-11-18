@@ -42,6 +42,36 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Resources.S
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Mains/BoxViewPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Mains.BoxViewPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Mains\BoxViewPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Mains\BoxViewPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Mains/ButtonPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Mains.ButtonPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Mains\ButtonPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Mains\ButtonPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Mains/ImageButtonPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Mains.ImageButtonPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Mains\ImageButtonPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Mains\ImageButtonPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Mains/ImagePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Mains.ImagePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Mains\ImagePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Mains\ImagePage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Mains/LabelPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Mains.LabelPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Mains\LabelPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Mains\LabelPage.xaml
+
 [C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Layouts/AbsoluteLayoutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Layouts.AbsoluteLayoutPage.xaml

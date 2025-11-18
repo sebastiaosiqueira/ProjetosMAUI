@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\layouts\\flaxlayoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\layouts\\flaxlayoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.111\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\components\\mains\\imagebuttonpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\components\\mains\\imagebuttonpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\components\\mains\\imagebuttonpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\components\\mains\\imagebuttonpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,27 +30,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FlaxLayoutPage.xaml",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Layouts\\FlaxLayoutPage.xaml",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Layouts\\FlaxLayoutPage.xaml",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Layouts\\FlaxLayoutPage.xaml",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\Layouts\\FlaxLayoutPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-10T18:49:31.845Z",
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.111\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.111\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.111\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.111\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAGMCAAAAAAAAAAAWwHgCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-18T17:49:48.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ImageButtonPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml.cs",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:43:36.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageButtonPage.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-18T17:40:47.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADgvy0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T18:31:48.543Z",
+              "WhenOpened": "2025-11-18T16:41:01.01Z",
               "EditorCaption": ""
             }
           ]

@@ -251,7 +251,6 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\bin\Debug\net
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\AppTabbedPage.csproj.AssemblyReference.cache
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\mauifont.inputs
@@ -262,6 +261,18 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@2x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@3x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\mauisplash.stamp
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\two@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\two@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\two.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\three@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\three@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\three.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\one@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\one@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\one.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
@@ -274,9 +285,6 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
-C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
-C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
-C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.stamp
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.outputs
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTabbedPage\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist

@@ -1,15 +1,8 @@
-﻿
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AppMAUIGallery.Models
+﻿namespace AppMAUIGallery.Models
 {
-    internal class Category
+    public class Category
     {
-       public string Name { get; set; } 
-        public List<Component> Components{ get; set; }
+        public string Name { get; set; }
+        public List<Component> Components { get; set; }
     }
 }

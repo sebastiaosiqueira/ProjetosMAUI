@@ -1,10 +1,6 @@
 ﻿using AppMAUIGallery.Models;
+using AppMAUIGallery.Views.Components.Mains;
 using AppMAUIGallery.Views.Layouts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AppMAUIGallery.Repositories
 {
@@ -41,7 +37,46 @@ namespace AppMAUIGallery.Repositories
                         Page=typeof(FlaxLayoutPage)
                     }
                 }
-                });
+            });
+            categories.Add(new Category()
+            {
+                Name = "Componentes (Views)",
+                Components = new List<Component>
+                    {
+                        new Component
+                        {
+                            Title ="BoxView",
+                           Description = "Um componente que cria uma caixa para se apresentada",
+                           Page =typeof (BoxViewPage)
+                        },
+                        new Component
+                        {
+                            Title="Label",
+                            Description = "Apresenta um texto na tela",
+                            Page=typeof (LabelPage)
+                        },
+                        new Component {
+                           Title="Button",
+                           Description ="Apresenta um botão na tela",
+                           Page=typeof (ButtonPage)
+                        },
+                        new Component {
+                           Title="Image",
+                           Description ="Apresenta uma imagem na tela",
+                           Page=typeof (ImagePage)
+                        },
+                        new Component {
+                           Title="ImageButton",
+                           Description ="Apresenta uma imagem no botão na tela",
+                           Page=typeof (ImageButtonPage)
+                        }
+
+
+
+                    }
+            });
+                    
+           
             return categories;
 
         }

@@ -2,8 +2,8 @@ namespace AppMAUIGallery;
 
 public partial class AppFlyout : FlyoutPage
 {
-	public AppFlyout()
-	{
-		InitializeComponent();
-	}
+    public AppFlyout()
+    {
+        InitializeComponent();
+    }
 }
