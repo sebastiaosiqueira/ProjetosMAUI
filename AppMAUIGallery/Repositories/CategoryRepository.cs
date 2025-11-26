@@ -1,5 +1,6 @@
 ﻿using AppMAUIGallery.Models;
 using AppMAUIGallery.Views.Components.Mains;
+using AppMAUIGallery.Views.Components.Visuals;
 using AppMAUIGallery.Views.Layouts;
 
 namespace AppMAUIGallery.Repositories
@@ -74,6 +75,30 @@ namespace AppMAUIGallery.Repositories
 
 
                     }
+            });
+            categories.Add(new Category
+            {
+                Name = "Visuais",
+                Components = new List<Component>
+                {
+                    new Component {
+                        Title = "Frame",
+                        Description = "Caixa que envolve outros elementos.",
+                        Page = typeof(FramePage)
+                    },               
+                    new Component
+                    {
+                    Title="Border",
+                    Description = "Caixa que envolve outro elemento",
+                    Page=typeof (BorderPage)
+                    },
+                     new Component
+                    {
+                    Title="Shadow",
+                    Description = "Adiciona uma sombra ao elemento",
+                    Page=typeof (ShadowPage)
+                    }
+                 },
             });
                     
            
