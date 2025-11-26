@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\components\\mains\\imagebuttonpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\components\\mains\\imagebuttonpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9816B03F-6D7B-437D-9C84-F3B605F8599E}|AppjogoForca\\AppjogoForca.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appjogoforca\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9816B03F-6D7B-437D-9C84-F3B605F8599E}|AppjogoForca\\AppjogoForca.csproj|solutionrelative:appjogoforca\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\components\\mains\\imagebuttonpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\components\\mains\\imagebuttonpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9816B03F-6D7B-437D-9C84-F3B605F8599E}|AppjogoForca\\AppjogoForca.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appjogoforca\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9816B03F-6D7B-437D-9C84-F3B605F8599E}|AppjogoForca\\AppjogoForca.csproj|solutionrelative:appjogoforca\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9816B03F-6D7B-437D-9C84-F3B605F8599E}|AppjogoForca\\AppjogoForca.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appjogoforca\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9816B03F-6D7B-437D-9C84-F3B605F8599E}|AppjogoForca\\AppjogoForca.csproj|solutionrelative:appjogoforca\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ImageButtonPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml.cs",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml.cs",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:43:36.735Z",
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppjogoForca\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "AppjogoForca\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppjogoForca\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "AppjogoForca\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T20:57:03.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ImageButtonPage.xaml",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\Components\\Mains\\ImageButtonPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-18T17:40:47.311Z",
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppjogoForca\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppjogoForca\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppjogoForca\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppjogoForca\\MainPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:52:30.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T16:41:01.01Z",
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppjogoForca\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppjogoForca\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppjogoForca\\MainPage.xaml",
+              "RelativeToolTip": "AppjogoForca\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T16:48:39.052Z",
               "EditorCaption": ""
             }
           ]
