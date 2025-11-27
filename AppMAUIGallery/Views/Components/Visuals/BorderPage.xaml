@@ -10,8 +10,7 @@
                 StrokeLineJoin="Round"
                 StrokeLineCap="Round"
                 
-                StrokeDashArray="1,1"
-                StrokeDashOffSet="0"
+               StrokeDashArray="5,5"
                 >
             <Label 
      Text="Welcome to .NET MAUI!"
@@ -23,7 +22,7 @@
                 Stroke="Blue"
                 StrokeShape="RoundRectangle 5,10,15,20">
 
-            <label Text="O<!--#endregion--> como vai?"/>
+            <Label Text="Oi como vai?"/>
         </Border>
        
     </VerticalStackLayout>

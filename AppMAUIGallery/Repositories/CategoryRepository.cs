@@ -1,7 +1,9 @@
 ﻿using AppMAUIGallery.Models;
+using AppMAUIGallery.Views.Components.Forms;
 using AppMAUIGallery.Views.Components.Mains;
 using AppMAUIGallery.Views.Components.Visuals;
 using AppMAUIGallery.Views.Layouts;
+using System.IO;
 
 namespace AppMAUIGallery.Repositories
 {
@@ -68,11 +70,10 @@ namespace AppMAUIGallery.Repositories
                         },
                         new Component {
                            Title="ImageButton",
-                           Description ="Apresenta uma imagem no botão na tela",
+                           Description ="Cria uma caixa de marcaçao",
                            Page=typeof (ImageButtonPage)
                         }
-
-
+                       
 
                     }
             });
@@ -100,8 +101,35 @@ namespace AppMAUIGallery.Repositories
                     }
                  },
             });
-                    
-           
+            categories.Add(new Category
+            {
+                Name = "Formularios",
+                Components = new List<Component>
+                {
+                    new Component {
+                        Title = "Entry",
+                        Description = "Ele cria uma caixa de entrada de texto.",
+                        Page = typeof(EntryPage)
+                    },
+                    new Component{
+                        Title="Edit",
+                        Description= "Recebe uma quantidade maior de caracteres",
+                        Page=typeof (EditorPage)
+                    },
+                   new Component{
+                        Title="Checkbox",
+                        Description= "Cria uma caixa de marcação",
+                        Page=typeof (CheckBoxPage)
+                    },
+                    new Component {
+                            Title="RadioButton",
+                            Description="Seleciona um unico item",
+                            Page=typeof(RadionbuttonPage)
+                        }
+                 },
+            });
+
+
             return categories;
 
         }
