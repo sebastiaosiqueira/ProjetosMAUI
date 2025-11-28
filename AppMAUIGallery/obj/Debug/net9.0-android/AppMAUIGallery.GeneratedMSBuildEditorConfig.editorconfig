@@ -42,11 +42,47 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Resources.S
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Cells/EntryCellPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Cells.EntryCellPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cells\EntryCellPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cells\EntryCellPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Cells/ImageCellPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Cells.ImageCellPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cells\ImageCellPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cells\ImageCellPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Cells/SwitchCellPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Cells.SwitchCellPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cells\SwitchCellPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cells\SwitchCellPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Cells/TextCellPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Cells.TextCellPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cells\TextCellPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cells\TextCellPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Cells/ViewCellPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Cells.ViewCellPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cells\ViewCellPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cells\ViewCellPage.xaml
+
 [C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/CheckBoxPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.CheckBoxPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\CheckBoxPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\CheckBoxPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/DatePickerPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.DatePickerPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\DatePickerPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\DatePickerPage.xaml
 
 [C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/EditorPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -60,11 +96,47 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Compo
 build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\EntryPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\EntryPage.xaml
 
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/PickerPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.PickerPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\PickerPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\PickerPage.xaml
+
 [C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/RadionbuttonPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.RadionbuttonPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\RadionbuttonPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\RadionbuttonPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\SearchPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/SliderPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.SliderPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\SliderPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\SliderPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/StepperPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.StepperPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\StepperPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\StepperPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/SwichPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.SwichPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\SwichPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\SwichPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Forms/TimePickerPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Forms.TimePickerPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Forms\TimePickerPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Forms\TimePickerPage.xaml
 
 [C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Components/Mains/BoxViewPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

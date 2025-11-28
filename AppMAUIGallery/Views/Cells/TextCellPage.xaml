@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMAUIGallery.Views.Cells.TextCellPage"
+             Title="TextCellPage">
+    <VerticalStackLayout Padding="10">
+        <TableView>
+            <TableSection Title="Lista de Colaboradores">
+                <TextCell DetailColor="Gray" TextColor="Blue" Text="JOão Rodrigues" Detail="Idade: 24, Cargo Administrador"/>
+
+            </TableSection>
+        </TableView>
+    </VerticalStackLayout>
+</ContentPage>

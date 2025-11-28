@@ -1,9 +1,9 @@
 ﻿using AppMAUIGallery.Models;
+using AppMAUIGallery.Views.Cells;
 using AppMAUIGallery.Views.Components.Forms;
 using AppMAUIGallery.Views.Components.Mains;
 using AppMAUIGallery.Views.Components.Visuals;
 using AppMAUIGallery.Views.Layouts;
-using System.IO;
 
 namespace AppMAUIGallery.Repositories
 {
@@ -125,9 +125,77 @@ namespace AppMAUIGallery.Repositories
                             Title="RadioButton",
                             Description="Seleciona um unico item",
                             Page=typeof(RadionbuttonPage)
+                        },
+                     new Component {
+                            Title="Swich",
+                            Description="Caixa de marcação",
+                            Page=typeof(SwichPage)
+                        },
+                     new Component {
+                            Title="Stepper",
+                            Description="Cria opções de incrementar e decrementar um número.",
+                            Page=typeof(StepperPage)
+                        },
+                     new Component {
+                            Title="Slider",
+                            Description="Cria uma barra que incrementa e decrementa um número.",
+                            Page=typeof(SliderPage)
+                        },
+                     new Component {
+                            Title="TimePicker",
+                            Description="Seleção da  hora e o minuto.",
+                            Page=typeof(TimePickerPage)
+                        },
+                     new Component {
+                            Title="DatePicker",
+                            Description="Seleção data.",
+                            Page=typeof(DatePickerPage)
+                        },
+                     new Component {
+                            Title="Search",
+                            Description="Campo de entrada de busca.",
+                            Page=typeof(SearchPage)
+                        }
+                     ,
+                     new Component {
+                            Title="Picker",
+                            Description="Seleciona ym ista da item",
+                            Page=typeof(PickerPage)
                         }
                  },
             });
+            categories.Add(
+                new Category
+                {
+                    Name = "Celulas",
+                    Components = new List<Component>
+                    {
+                        new Component {
+                            Title = "TextCell",
+                            Description = "Apresenta até duas labels onde uma e destinada ao titulo e outra a descricao",
+                            Page = typeof(TextCellPage)
+                        },new Component {
+                            Title = "ImagemCell",
+                            Description = "Apresenta uma imagem com duas labels onde uma e destinada ao titulo e outra a descricao",
+                            Page = typeof(ImageCellPage)
+                        },
+                        new Component {
+                            Title = "SwitchCellPage",
+                            Description = "Apresenta uma label em conjunto com switch",
+                            Page = typeof(SwitchCellPage)
+                        },
+                        new Component {
+                            Title = "EntryCell",
+                            Description = "Apresenta uma label em conjunto entry",
+                            Page = typeof(EntryPage)
+                        }, new Component {
+                            Title = "ViewCell",
+                            Description = "Apresenta uma label em conjunto entry",
+                            Page = typeof(ViewCellPage)
+                        },
+                    }
+
+                    });
 
 
             return categories;
