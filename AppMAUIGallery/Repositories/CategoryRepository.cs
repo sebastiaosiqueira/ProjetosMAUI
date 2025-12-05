@@ -4,6 +4,7 @@ using AppMAUIGallery.Views.Components.Forms;
 using AppMAUIGallery.Views.Components.Mains;
 using AppMAUIGallery.Views.Components.Visuals;
 using AppMAUIGallery.Views.Layouts;
+using AppMAUIGallery.Views.Lists;
 
 namespace AppMAUIGallery.Repositories
 {
@@ -196,6 +197,40 @@ namespace AppMAUIGallery.Repositories
                     }
 
                     });
+            categories.Add(
+             new Category
+             {
+                 Name = "Listas e Coleções",
+                 Components = new List<Component>
+                 {
+                        new Component {
+                            Title = "TableView",
+                            Description = "Apresenta celulas em linhas separadas e agrupar por sessão",
+                            Page = typeof(TableViewPage)
+                        },
+                        new Component
+                        {
+                            Title="Picker",
+                            Description = "Apresenta uma lista de seleção única",
+                            Page=typeof(PickerListPage)
+
+                        },
+                        new Component
+                        {
+                            Title="ListView",
+                            Description = "Apresenta uma lista de itens",
+                            Page=typeof(ListiViewPage)
+
+                        },new Component
+                        {
+                            Title="CollectionView",
+                            Description = "Apresenta uma lista de itens",
+                            Page=typeof(CollectionViewPage)
+
+                        },
+                 }
+
+             });
 
 
             return categories;

@@ -69,6 +69,12 @@
 	  <Compile Update="Views\Layouts\AbsoluteLayoutPage.xaml.cs">
 	    <DependentUpon>AbsoluteLayoutPage.xaml</DependentUpon>
 	  </Compile>
+	  <Compile Update="Views\Lists\CollectionViewPage.xaml.cs">
+	    <DependentUpon>CollectionViewPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\Lists\TableViewPage.xaml.cs">
+	    <DependentUpon>TableViewPage.xaml</DependentUpon>
+	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
@@ -157,6 +163,18 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\Layouts\StackLayoutPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Lists\CollectionViewPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Lists\ListiViewPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Lists\PickerListPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Lists\TableViewPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\MainPage.xaml">

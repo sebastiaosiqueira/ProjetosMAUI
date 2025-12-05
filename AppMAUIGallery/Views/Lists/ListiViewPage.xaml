@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMAUIGallery.Views.Lists.ListiViewPage"
+             Title="ListiViewPage" Padding="10">
+
+        <ListView x:Name="ListViewControl"
+                   Margin="10" 
+                  HasUnevenRows="True"
+                   IsPullToRefreshEnabled="True"
+                  IsRefreshing="false" 
+                  Refreshing="ListViewControl_Refreshing"
+                   ItemSelected="ListViewControl_ItemSelected" 
+                  SelectionMode="Single"
+                  SeparatorColor="Blue" 
+                  SeparatorVisibility="Default"
+                  IsGroupingEnabled="true"
+                  
+                  >
+        <ListView.Header>
+            <Button Clicked="Button_Clicked" Text="Carregar" Margin="10"/>
+        </ListView.Header>
+        <ListView.GroupHeaderTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <VerticalStackLayout Padding="10" Background="Purple" >
+                        <Label Text="{Binding CompanyName}" TextColor="White" FontSize="18"  FontAttributes="Bold"></Label>
+
+                    </VerticalStackLayout>
+                   
+                </ViewCell>
+            </DataTemplate>
+        </ListView.GroupHeaderTemplate>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <VerticalStackLayout>
+                        <Label Text="{Binding Name}" FontSize="14" FontAttributes="Bold" TextType="Text" Margin="10"/>
+                        <Label Text="{Binding Description}" TextColor="Gray"  Margin="10"/>
+                            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                                <Label Text="{Binding LaunchYear}" Margin="10"/>
+                                <Label Text="{Binding Duration}" Margin="10"/>
+                            </HorizontalStackLayout>
+                        </VerticalStackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+  
+</ContentPage>

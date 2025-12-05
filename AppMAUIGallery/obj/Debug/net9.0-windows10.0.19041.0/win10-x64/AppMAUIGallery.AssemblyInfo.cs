@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppMAUIGallery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18580809e83572817f9c0230ba28743c87c257fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d019ddaccd68a4807715e03332ab18a90de3b90a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppMAUIGallery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppMAUIGallery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
