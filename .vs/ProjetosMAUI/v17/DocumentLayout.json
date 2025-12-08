@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Lists\\CollectionViewPage.xaml.cs",
               "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Lists\\CollectionViewPage.xaml.cs",
               "RelativeToolTip": "AppMAUIGallery\\Views\\Lists\\CollectionViewPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T14:39:00.556Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Lists\\CollectionViewPage.xaml",
               "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Lists\\CollectionViewPage.xaml",
               "RelativeToolTip": "AppMAUIGallery\\Views\\Lists\\CollectionViewPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-05T14:37:31.88Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "AppMAUIGallery\\Views\\Lists\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T19:36:36.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T19:36:36.067Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAMYAAAAAAAAAAAAowOMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:11:41.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T18:11:41.106Z"
             }
           ]
         }

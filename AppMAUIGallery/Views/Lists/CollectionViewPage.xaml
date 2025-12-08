@@ -3,20 +3,56 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppMAUIGallery.Views.Lists.CollectionViewPage"
              Title="CollectionViewPage">
-    <CollectionView x:Name="CollectionViewControl">
-        <CollectionView.ItemTemplate>
-            <DataTemplate>
-                <VerticalStackLayout Padding="10">
-                    <Label Text="{Binding Name}" FontAttributes="Bold" FontSize="16"/>
-                    <Label Text="{Binding Description}" TextColor="Gray"/>
-                    <HorizontalStackLayout HorizontalOptions="Center">
-                        <Label Text="{Binding Duration}" Margin="10"/>
-                        <Label Text="{Binding LaunchYear}" Margin="10"/>
+    <Grid>
+        <RefreshView RefreshColor="Purple"  Refreshing="RefreshView_Refreshing">
+        <CollectionView x:Name="CollectionViewControl" 
+                    RemainingItemsThreshold="-1" RemainingItemsThresholdReached="CollectionViewControl_RemainingItemsThresholdReached"
+                    IsGrouped="True"
+                    Scrolled="CollectionViewControl_ScrolledNovo"
+                    SelectionMode="Multiple"
+                    SelectionChanged="CollectionViewControl_SelectionChanged">
+            <CollectionView.Header>
+                <Label x:Name="lblSelectedMovies"/>
+            </CollectionView.Header>
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout  Orientation="Vertical">
+
+                </LinearItemsLayout>
+            </CollectionView.ItemsLayout>
+            <CollectionView.GroupHeaderTemplate>
+                <DataTemplate>
+                    <HorizontalStackLayout Padding="10" BackgroundColor="Purple">
+                        <Label Text="Inicio"/>
+                        <Label Text="{Binding CompanyName}"/>
                     </HorizontalStackLayout>
-                    <BoxView HeightRequest="1" Color="LightGray"/>
-                </VerticalStackLayout>
-                
-            </DataTemplate>
-        </CollectionView.ItemTemplate>
-    </CollectionView>
+
+                </DataTemplate>
+            </CollectionView.GroupHeaderTemplate>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout Padding="10">
+                        <Label Text="{Binding Name}" FontAttributes="Bold" FontSize="16"/>
+                        <Label Text="{Binding Description}" TextColor="Gray"/>
+                        <HorizontalStackLayout HorizontalOptions="Center">
+                            <Label Text="{Binding Duration}" Margin="10"/>
+                            <Label Text="{Binding LaunchYear}" Margin="10"/>
+                        </HorizontalStackLayout>
+                        <BoxView HeightRequest="1" Color="LightGray"/>
+                    </VerticalStackLayout>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+            <CollectionView.GroupFooterTemplate>
+                <DataTemplate>
+                    <HorizontalStackLayout Padding="10">
+                        <Label Text="Final"/>
+                        <Label Text="{Binding CompanyName}"/>
+                    </HorizontalStackLayout>
+                </DataTemplate>
+            </CollectionView.GroupFooterTemplate>
+        </CollectionView>
+    </RefreshView>
+        <Button Margin="10" Clicked="Button_Clicked" HorizontalOptions="End" Text="Vá para a index 8" VerticalOptions="Start"/>
+        <Label x:Name="LblScrollStatus" Padding="10" BackgroundColor="Gray" HorizontalOptions="End" VerticalOptions="End"/>
+    </Grid>
 </ContentPage>
