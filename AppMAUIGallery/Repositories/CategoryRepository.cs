@@ -228,6 +228,27 @@ namespace AppMAUIGallery.Repositories
                             Page=typeof(CollectionViewPage)
 
                         },
+                        new Component
+                        {
+                            Title="CarroselView",
+                            Description = "Apresenta uma lista de itens na opção horizontal",
+                            Page=typeof(CarouselViewPage)
+
+                        },
+                        new Component
+                        {
+                            Title="BindableLayout (Atributo)",
+                            Description = "Permitir que os layouts possoam apresentar nossas listas e coleções",
+                            Page=typeof(BindableLayoutPage)
+
+                        },
+                        new Component
+                        {
+                            Title="Data Template Selector (Atributo)",
+                            Description = "Permitir que os itens possam ser apresentados com layouts diferentes",
+                            Page=typeof(DataTemplateSelectorPage)
+
+                        },
                  }
 
              });

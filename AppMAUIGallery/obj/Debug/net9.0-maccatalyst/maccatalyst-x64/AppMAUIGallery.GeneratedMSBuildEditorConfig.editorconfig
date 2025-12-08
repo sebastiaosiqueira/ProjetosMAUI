@@ -210,11 +210,29 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Layou
 build_metadata.AdditionalFiles.TargetPath = Views\Layouts\StackLayoutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Layouts\StackLayoutPage.xaml
 
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Lists/BindableLayoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Lists.BindableLayoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Lists\BindableLayoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Lists\BindableLayoutPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Lists/CarouselViewPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Lists.CarouselViewPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Lists\CarouselViewPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Lists\CarouselViewPage.xaml
+
 [C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Lists/CollectionViewPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Lists.CollectionViewPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Lists\CollectionViewPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Lists\CollectionViewPage.xaml
+
+[C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Lists/DataTemplateSelectorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Lists.DataTemplateSelectorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Lists\DataTemplateSelectorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Lists\DataTemplateSelectorPage.xaml
 
 [C:/Users/3346.ADM-UCDB/Desktop/Projetos/ProjetosMAUI/AppMAUIGallery/Views/Lists/ListiViewPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMAUIGallery.Views.Lists.CarouselViewPage"
+             Title="CarouselViewPage">
+    <ContentPage.Resources>
+        <Style TargetType="BoxView" x:Key="IndicatorStyle">
+            <Setter Property="VisualStateManager.VisualStateGroups">
+                <VisualStateGroupList>
+                    <VisualStateGroup x:Name="ComonStates">
+                        <VisualState x:Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Color" Value="#DFDBF7"/>
+                            </VisualState.Setters>
+                        </VisualState>
+                        <VisualState x:Name="Selected">
+                            <VisualState.Setters>
+                                <Setter Property="Color" Value="#512BD4"/>
+                            </VisualState.Setters>
+                            
+                        </VisualState>
+                    </VisualStateGroup>
+                </VisualStateGroupList>
+            </Setter>
+            <Setter Property="Color" Value="#DFD8F7"/>
+        </Style>
+    </ContentPage.Resources>
+    <Grid Margin="10">
+    <CarouselView x:Name="CarouselViewControl " 
+                      Loop="false"
+                      PeekAreaInsets="50"
+                      Position="0"
+                  IndicatorView="IndicatorViewControl">
+        <CarouselView.ItemsLayout>
+            <LinearItemsLayout Orientation="Horizontal" ItemSpacing="0" SnapPointsType="Mandatory" SnapPointsAlignment="Center">
+                
+            </LinearItemsLayout>
+        </CarouselView.ItemsLayout>
+    <CarouselView.ItemTemplate>
+                <DataTemplate>
+
+                <VerticalStackLayout BackgroundColor="#E8E8E8" Margin="10">
+                            <Label Text="{Binding Name}" Padding="10" FontAttributes="Bold" HorizontalOptions="Center" FontSize="18"/>
+                            <Label Text="{Binding Description}" TextColor="Gray" Padding="10"/>
+                            <HorizontalStackLayout Spacing="100" HorizontalOptions="Center">
+                                <Label Text="{Binding Duration}"/>
+                                <Label Text="{Binding LaunchYear}"/>
+                            </HorizontalStackLayout>
+
+                        </VerticalStackLayout>
+               
+
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+        <!--<IndicatorView x:Name="IndicatorViewControl" 
+                       HorizontalOptions="Center" VerticalOptions="End" Margin="10" 
+                       IndicatorColor="#DFD8F7"
+                       SelectedIndicatorColor="#512BD4"
+                       IndicatorSize="16"/>-->
+
+        <IndicatorView x:Name="IndicatorViewControl" 
+                       HorizontalOptions="Center" VerticalOptions="End" Margin="10" 
+                       IndicatorColor="#DFD8F7"
+                       SelectedIndicatorColor="Transparent"
+                       IndicatorSize="16">
+        <IndicatorView.IndicatorTemplate>
+            <DataTemplate>
+                <BoxView WidthRequest="20" HeightRequest="10" Style="{StaticResource IndicatorStyle}" CornerRadius="3"/>
+            </DataTemplate>
+        </IndicatorView.IndicatorTemplate>
+        </IndicatorView>
+    </Grid>
+
+
+</ContentPage>

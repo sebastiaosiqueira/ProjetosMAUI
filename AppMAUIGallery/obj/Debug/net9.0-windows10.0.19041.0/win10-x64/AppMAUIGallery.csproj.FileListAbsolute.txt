@@ -514,3 +514,13 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\ne
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\clock.scale-100.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\clock.scale-125.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\clock.scale-150.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\clock.scale-200.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\clock.scale-400.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-100.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-125.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-150.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-200.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppMAUIGallery\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock.scale-400.png
