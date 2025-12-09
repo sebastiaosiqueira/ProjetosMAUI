@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\lists\\datatemplateselectorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\lists\\datatemplateselectorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\lists\\datatemplateselectorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\lists\\datatemplateselectorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\lists\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\lists\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\appmauigallery\\repositories\\groupcomponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722818E8-9210-427D-B2A0-13466E1CDD99}|AppMAUIGallery\\AppMAUIGallery.csproj|solutionrelative:appmauigallery\\repositories\\groupcomponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataTemplateSelectorPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Lists\\DataTemplateSelectorPage.xaml.cs",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Lists\\DataTemplateSelectorPage.xaml.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Lists\\DataTemplateSelectorPage.xaml.cs",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\Lists\\DataTemplateSelectorPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T20:18:23.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataTemplateSelectorPage.xaml",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Lists\\DataTemplateSelectorPage.xaml",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Lists\\DataTemplateSelectorPage.xaml",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Lists\\DataTemplateSelectorPage.xaml",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\Lists\\DataTemplateSelectorPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\MainPage.xaml",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-08T20:17:13.671Z",
+              "WhenOpened": "2025-12-09T18:20:51.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Lists\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Lists\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Lists\\Models\\Movie.cs",
-              "RelativeToolTip": "AppMAUIGallery\\Views\\Lists\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T19:36:36.067Z",
+              "WhenOpened": "2025-12-09T18:20:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml.cs",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\Menu.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:16:03.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "AppMAUIGallery\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAN4AAAAAAAAAAAAowPgAAABBAAAAAAAAAA==",
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Views\\Menu.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Views\\Menu.xaml",
+              "RelativeToolTip": "AppMAUIGallery\\Views\\Menu.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-09T17:21:57.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupComponentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\GroupComponentRepository.cs",
+              "RelativeDocumentMoniker": "AppMAUIGallery\\Repositories\\GroupComponentRepository.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppMAUIGallery\\Repositories\\GroupComponentRepository.cs",
+              "RelativeToolTip": "AppMAUIGallery\\Repositories\\GroupComponentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T18:11:41.106Z",
+              "WhenOpened": "2025-12-09T13:29:17.155Z",
               "EditorCaption": ""
             }
           ]
