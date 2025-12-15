@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTask.Views.AddEditTaskPage"
+             Title="AddEditTaskPage">
+
+    <Grid>
+        <BoxView HeightRequest="5" Color="{StaticResource Black}" VerticalOptions="Start"/>
+        <VerticalStackLayout Padding="15">
+
+            <Button HorizontalOptions="End" Text="X" Clicked="Button_Clicked"  Clicked="AddStep" MinimumHeightRequest="31" MaximumHeightRequest="31"/>
+        <Entry Placeholder="Tarefa"/>
+        <Editor Placeholder="Descrição"/>
+        <DatePicker/>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Etapas (Subtarefas)" VerticalOptions="Center"/>
+            <Button Padding="0" Text="+" HorizontalOptions="EndAndExpand" Clicked="AddStep" MinimumHeightRequest="30" MaximumHeightRequest="30"/>
+        </StackLayout>
+
+        <Grid ColumnDefinitions="30,*,30">
+            <CheckBox/>
+            <Label Text="Etapa" Grid.Column="1" VerticalOptions="Center"/>
+            <Label Text="Trash" Grid.Column="2" VerticalOptions="Center"/>
+
+        </Grid>
+      
+    </VerticalStackLayout>
+        <Button Clicked="SaveData" Text="+ Adicionar Tarefa" HorizontalOptions="Center" VerticalOptions="Center" Margin="15,15,15,15"/>
+    </Grid>
+</ContentPage>
