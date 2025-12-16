@@ -1,4 +1,3 @@
-C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\AppTask.csproj.AssemblyReference.cache
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\mauifont.inputs
@@ -9,6 +8,9 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-io
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_13FC7036C467A046016F5294AA2F18616F38E0833D8E340432B908D9BDBFB31D@2x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_13FC7036C467A046016F5294AA2F18616F38E0833D8E340432B908D9BDBFB31D@3x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\mauisplash.stamp
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\trash@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\trash@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\trash.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
@@ -21,6 +23,9 @@ C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-io
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\find@3x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\find@2x.png
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\find.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
 C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png

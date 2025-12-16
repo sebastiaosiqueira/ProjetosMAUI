@@ -1,0 +1,6 @@
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask.Database\obj\Debug\net8.0\AppTask.Database.csproj.AssemblyReference.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask.Database\obj\Debug\net8.0\AppTask.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask.Database\obj\Debug\net8.0\AppTask.Database.AssemblyInfoInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask.Database\obj\Debug\net8.0\AppTask.Database.AssemblyInfo.cs
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask.Database\obj\Debug\net8.0\AppTask.Database.csproj.CoreCompileInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\ProjetosMAUI\AppTask.Database\obj\Debug\net8.0\AppTask.Database.sourcelink.json
