@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0F5330A-5F13-40D8-8979-D0FB934A62DB}|AppTask.Database\\AppTask.Database.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask.database\\apptaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F5330A-5F13-40D8-8979-D0FB934A62DB}|AppTask.Database\\AppTask.Database.csproj|solutionrelative:apptask.database\\apptaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{187AB034-8F70-4F1B-A3D5-D89503AACCAA}|AppTask.Models\\AppTask.Models.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask.models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{187AB034-8F70-4F1B-A3D5-D89503AACCAA}|AppTask.Models\\AppTask.Models.csproj|solutionrelative:apptask.models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask\\views\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|solutionrelative:apptask\\views\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask\\libraries\\converters\\booltotextdecoractionstrikethroughconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|solutionrelative:apptask\\libraries\\converters\\booltotextdecoractionstrikethroughconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask\\views\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|solutionrelative:apptask\\views\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask\\apptask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|solutionrelative:apptask\\apptask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|solutionrelative:apptask\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask\\views\\addedittaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|solutionrelative:apptask\\views\\addedittaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask\\views\\addedittaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA0F0A9A-538E-40F6-B88B-151E14A389F4}|AppTask\\AppTask.csproj|solutionrelative:apptask\\views\\addedittaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{187AB034-8F70-4F1B-A3D5-D89503AACCAA}|AppTask.Models\\AppTask.Models.csproj|c:\\users\\3346.adm-ucdb\\desktop\\projetos\\projetosmaui\\apptask.models\\subtaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{187AB034-8F70-4F1B-A3D5-D89503AACCAA}|AppTask.Models\\AppTask.Models.csproj|solutionrelative:apptask.models\\subtaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppTaskContext.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask.Database\\AppTaskContext.cs",
-              "RelativeDocumentMoniker": "AppTask.Database\\AppTaskContext.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask.Database\\AppTaskContext.cs*",
-              "RelativeToolTip": "AppTask.Database\\AppTaskContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T18:39:36.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppTask",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\AppTask.csproj",
-              "RelativeDocumentMoniker": "AppTask\\AppTask.csproj",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\AppTask.csproj",
-              "RelativeToolTip": "AppTask\\AppTask.csproj",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-16T18:23:56.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SubTaskModel.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask.Models\\SubTaskModel.cs",
-              "RelativeDocumentMoniker": "AppTask.Models\\SubTaskModel.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask.Models\\SubTaskModel.cs",
-              "RelativeToolTip": "AppTask.Models\\SubTaskModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T18:00:47.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TaskModel.cs",
               "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask.Models\\TaskModel.cs",
               "RelativeDocumentMoniker": "AppTask.Models\\TaskModel.cs",
               "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask.Models\\TaskModel.cs",
               "RelativeToolTip": "AppTask.Models\\TaskModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T17:58:14.73Z",
+              "WhenOpened": "2025-12-19T19:01:20.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\App.xaml.cs",
-              "RelativeDocumentMoniker": "AppTask\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\App.xaml.cs",
-              "RelativeToolTip": "AppTask\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BoolToTextDecoractionStrikeThroughConverter.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Libraries\\Converters\\BoolToTextDecoractionStrikeThroughConverter.cs",
+              "RelativeDocumentMoniker": "AppTask\\Libraries\\Converters\\BoolToTextDecoractionStrikeThroughConverter.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Libraries\\Converters\\BoolToTextDecoractionStrikeThroughConverter.cs",
+              "RelativeToolTip": "AppTask\\Libraries\\Converters\\BoolToTextDecoractionStrikeThroughConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T14:36:54.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddEditTaskPage.xaml",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Views\\AddEditTaskPage.xaml",
-              "RelativeDocumentMoniker": "AppTask\\Views\\AddEditTaskPage.xaml",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Views\\AddEditTaskPage.xaml",
-              "RelativeToolTip": "AppTask\\Views\\AddEditTaskPage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-16T14:23:19.885Z",
+              "WhenOpened": "2025-12-19T18:52:13.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AddEditTaskPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Views\\AddEditTaskPage.xaml.cs",
-              "RelativeDocumentMoniker": "AppTask\\Views\\AddEditTaskPage.xaml.cs",
-              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Views\\AddEditTaskPage.xaml.cs",
-              "RelativeToolTip": "AppTask\\Views\\AddEditTaskPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Title": "AppTask",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\AppTask.csproj",
+              "RelativeDocumentMoniker": "AppTask\\AppTask.csproj",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\AppTask.csproj",
+              "RelativeToolTip": "AppTask\\AppTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T18:08:27.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Views\\StartPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppTask\\Views\\StartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Views\\StartPage.xaml.cs",
+              "RelativeToolTip": "AppTask\\Views\\StartPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T17:02:39.346Z",
+              "WhenOpened": "2025-12-19T17:28:14.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Views\\StartPage.xaml",
+              "RelativeDocumentMoniker": "AppTask\\Views\\StartPage.xaml",
+              "ToolTip": "C:\\Users\\3346.ADM-UCDB\\Desktop\\Projetos\\ProjetosMAUI\\AppTask\\Views\\StartPage.xaml",
+              "RelativeToolTip": "AppTask\\Views\\StartPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-19T14:42:14.802Z",
               "EditorCaption": ""
             }
           ]

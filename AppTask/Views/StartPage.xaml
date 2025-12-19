@@ -2,11 +2,65 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppTask.Views.StartPage"
+              xmlns:converter="clr-namespace:AppTask.Libraries.Converters"
              NavigationPage.HasNavigationBar="false"
              Title="StartPage">
-    <Grid RowDefinitions="80,*">
-        <Entry Margin="20, 20, 20, 20" Placeholder="Pesquisar..."/>
-        <Label Grid.Row="1" Text="O que você deseja fazer?" HorizontalOptions="Center" VerticalOptions="Center" TextColor="{StaticResource Gray400}"/>
-        <Button Grid.Row="1" Text="+  Adicionar Tarefa"  Margin="15" HorizontalOptions="Center" VerticalOptions="End" Clicked="Button_Clicked"/>
+    <ContentPage.Resources>
+        <converter:BoolToTextDecorationStrikeThroughConverter x:Key="BoolToTextDecorationStrikeThroughConverter" />
+    </ContentPage.Resources>
+    <Grid RowDefinitions="70,*">
+     
+        <Border
+            Margin="20,20,20,0"
+            BackgroundColor="#F7F7F7"
+            HeightRequest="50"
+            StrokeShape="RoundRectangle"
+            StrokeThickness="0">
+            <Border.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureReconizer_Tapped"/>
+            </Border.GestureRecognizers>
+            <StackLayout Orientation="Horizontal">
+                <Image Margin="9,0,0,0"
+                       HeightRequest="33"
+                       Source="find.png"
+                       WidthRequest="33"/>
+                <Entry  x:Name="Entry_Search"
+                        HorizontalOptions="FillAndExpand"
+                        Margin="20, 20, 20, 20" Placeholder="Pesquisar..." PlacehlderColor="#A8A8A8"/>
+            </StackLayout>
+
+        </Border>
+       <!-- Inicio segunda linha -->
+            <CollectionView x:Name="CollectionViewTasks"  Grid.Row="1">
+                <CollectionView.Template>
+                    <DataTemplate>
+                        <Grid ColumnDefinitions="70, *, 70" Padding="10,5 ">
+                        <CheckBox Grid.Column="0" HorizontalOptions="Center" IsChecked="{Binding IsCompleted}" >
+                            <CheckBox.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnCheckBoxClickedToComplete" CommandParameter="{Binding .}">
+                                    
+                                </TapGestureRecognizer>
+                            </CheckBox.GestureRecognizers>
+                        </CheckBox>
+                        <StackLayout Grid.Column="1">
+                            <Label Text="{Binding Name}" FontAttributes="Bold" TextDecorations="{Binding IsCompleted, Converter={StaticResource BoolToTextDecorationStrikeThroughConverter}}"/>
+                            <Label Text="{Binding PrevisionDate} TextDecorations="{Binding IsCompleted, Converter={StaticResource BoolToTextDecorationStrikeThroughConverter}}"/>
+                        </StackLayout>
+                        <Image Source="trash.png"  Grid.Column="2" WidthRequest="25">
+                            <Image.GestureRecognizer>
+                                <TapGestureRecognizer Tapped="OnImageClickedToDelete" CommandParameter="{Binding .}">
+                                    
+                                </TapGestureRecognizer>
+                            </Image.GestureRecognizer>
+
+                        </Image>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.Template>
+                
+            </CollectionView>
+        <Label x:Name="LblEmptyText"  Grid.Row="1" Text="O que você deseja fazer?" HorizontalOptions="Center" VerticalOptions="Center" TextColor="{StaticResource Gray400}"/>
+        <Button Grid.Row="1" Text="+  Adicionar Tarefa"  Margin="15" HorizontalOptions="Center" VerticalOptions="End" Clicked="OnButton_ClickedToAdd"/>
+            <!-- Fim segunda linha -->
     </Grid>
 </ContentPage>

@@ -1,9 +1,7 @@
-﻿using AppTask.Database.Repositories;
-using AppTask.Libraries.Authentations;
-using AppTask.Services;
-using AppTask.Views;
-using Microsoft.Maui.Controls.PlatformConfiguration;
+﻿using AppTask.Views;
 using Microsoft.Maui.Platform;
+using AppTask.Repositories;
+using AppTask.Models;
 
 namespace AppTask
 {

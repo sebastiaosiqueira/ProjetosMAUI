@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTask.Models", "AppTask.M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTask.Database", "AppTask.Database\AppTask.Database.csproj", "{D0F5330A-5F13-40D8-8979-D0FB934A62DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTask.Database.Migration.Runtime", "AppTask.Database.Migration.Runtime\AppTask.Database.Migration.Runtime.csproj", "{0736D5C6-CED8-4E39-B6EA-2710A6B56E36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Util", "Util", "{F2EA715B-552A-4026-87E7-E1ED1213E3A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,10 @@ Global
 		{D0F5330A-5F13-40D8-8979-D0FB934A62DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0F5330A-5F13-40D8-8979-D0FB934A62DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0F5330A-5F13-40D8-8979-D0FB934A62DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0736D5C6-CED8-4E39-B6EA-2710A6B56E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0736D5C6-CED8-4E39-B6EA-2710A6B56E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0736D5C6-CED8-4E39-B6EA-2710A6B56E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0736D5C6-CED8-4E39-B6EA-2710A6B56E36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +110,8 @@ Global
 		{BA0F0A9A-538E-40F6-B88B-151E14A389F4} = {2C7975E3-E10D-49CE-847B-5D6D6A91AF0E}
 		{187AB034-8F70-4F1B-A3D5-D89503AACCAA} = {2C7975E3-E10D-49CE-847B-5D6D6A91AF0E}
 		{D0F5330A-5F13-40D8-8979-D0FB934A62DB} = {2C7975E3-E10D-49CE-847B-5D6D6A91AF0E}
+		{0736D5C6-CED8-4E39-B6EA-2710A6B56E36} = {F2EA715B-552A-4026-87E7-E1ED1213E3A3}
+		{F2EA715B-552A-4026-87E7-E1ED1213E3A3} = {2C7975E3-E10D-49CE-847B-5D6D6A91AF0E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26FEA4DA-B220-4703-8E6A-05B4C039E7EF}

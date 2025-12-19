@@ -10,6 +10,11 @@ namespace AppTask.Database
         public DbSet<TaskModel> Tasks{ get; set; }
         public DbSet<SubTaskModel> SubTasks { get; set; }
 
+        public AppTaskContext()
+        {
+            Database.Migrate();
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
@@ -21,8 +26,6 @@ namespace AppTask.Database
             var databasePath =Path.Combine(folderPath + databaseName);
 
             optionsBuilder.UseSqlite($"Filename={databasePath}");
-
-
         }
     }
 }
