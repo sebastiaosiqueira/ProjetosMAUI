@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppTask.Libraries.Conversores
+namespace AppTask.Libraries.Conversters
 {
     public class BoolToTextDecoractionStrikeThroughConverter : IValueConverter
     {

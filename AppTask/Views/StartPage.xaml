@@ -2,11 +2,11 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppTask.Views.StartPage"
-              xmlns:converter="clr-namespace:AppTask.Libraries.Converters"
+              xmlns:converter="clr-namespace:AppTask.Libraries.Conversters"
              NavigationPage.HasNavigationBar="false"
              Title="StartPage">
     <ContentPage.Resources>
-        <converter:BoolToTextDecorationStrikeThroughConverter x:Key="BoolToTextDecorationStrikeThroughConverter" />
+        <converter:BoolToTextDecoractionStrikeThroughConverter x:Key="BoolToTextDecoractionStrikeThroughConverter" />
     </ContentPage.Resources>
     <Grid RowDefinitions="70,*">
      
@@ -25,6 +25,7 @@
                        Source="find.png"
                        WidthRequest="33"/>
                 <Entry  x:Name="Entry_Search"
+                        TextChanged="OnTextChagend_FilterList"
                         HorizontalOptions="FillAndExpand"
                         Margin="20, 20, 20, 20" Placeholder="Pesquisar..." PlacehlderColor="#A8A8A8"/>
             </StackLayout>
@@ -43,9 +44,17 @@
                             </CheckBox.GestureRecognizers>
                         </CheckBox>
                         <StackLayout Grid.Column="1">
-                            <Label Text="{Binding Name}" FontAttributes="Bold" TextDecorations="{Binding IsCompleted, Converter={StaticResource BoolToTextDecorationStrikeThroughConverter}}"/>
-                            <Label Text="{Binding PrevisionDate} TextDecorations="{Binding IsCompleted, Converter={StaticResource BoolToTextDecorationStrikeThroughConverter}}"/>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OntapToEdit" CommandParameter="{Binding .}">
+                                </TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                            <Label Text="{Binding Name}"
+                                   FontAttributes="Bold" 
+                                   TextDecorations="{Binding IsCompleted, Converter={StaticResource BoolToTextDecorationStrikeThroughConverter}}"/>
+                            <Label Text="{Binding PrevisionDate}"
+                                TextDecorations="{Binding IsCompleted, Converter={StaticResource BoolToTextDecorationStrikeThroughConverter}}"/>
                         </StackLayout>
+                            
                         <Image Source="trash.png"  Grid.Column="2" WidthRequest="25">
                             <Image.GestureRecognizer>
                                 <TapGestureRecognizer Tapped="OnImageClickedToDelete" CommandParameter="{Binding .}">
